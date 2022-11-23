@@ -1,0 +1,72 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Background
+  - WalkablePlatform
+  - Enemy
+  - Main
+  - EndGoal
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - WalkablePlatforms
+  - Enemy
+  - Player
+  - Background 4
+  - Background 3
+  - Background 2
+  - Background 1
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Player
+    uniqueID: 3870721779
+    locked: 0
+  - name: Enemy
+    uniqueID: 2700370815
+    locked: 0
+  - name: Background 1
+    uniqueID: 657301501
+    locked: 0
+  - name: Background 2
+    uniqueID: 2505387931
+    locked: 0
+  - name: Background 3
+    uniqueID: 3985806699
+    locked: 0
+  - name: Background 4
+    uniqueID: 2524072639
+    locked: 0
+  - name: Buildings
+    uniqueID: 2222179267
+    locked: 0
+  - name: Walkable Gound
+    uniqueID: 2720113985
+    locked: 0

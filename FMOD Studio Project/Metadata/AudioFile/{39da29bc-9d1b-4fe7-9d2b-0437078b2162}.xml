@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{39da29bc-9d1b-4fe7-9d2b-0437078b2162}">
+		<property name="assetPath">
+			<value>Weapons/AUDIO/MOTRSrvo_Plasma Rifle Arm_01.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>0.40497916666666667</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{b164566c-9a00-4f29-ad25-fe2857e09427}</destination>
+		</relationship>
+	</object>
+</objects>

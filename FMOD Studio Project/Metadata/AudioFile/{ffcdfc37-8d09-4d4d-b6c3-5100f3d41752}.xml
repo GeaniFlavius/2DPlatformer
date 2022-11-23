@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{ffcdfc37-8d09-4d4d-b6c3-5100f3d41752}">
+		<property name="assetPath">
+			<value>Interface/Error 15.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>0.86052154195011343</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{b164566c-9a00-4f29-ad25-fe2857e09427}</destination>
+		</relationship>
+	</object>
+</objects>

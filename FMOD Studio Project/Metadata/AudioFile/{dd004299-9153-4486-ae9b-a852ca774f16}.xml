@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{dd004299-9153-4486-ae9b-a852ca774f16}">
+		<property name="assetPath">
+			<value>Weapons/Sci Fi Explosion 03.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>5.0619727891156465</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{b164566c-9a00-4f29-ad25-fe2857e09427}</destination>
+		</relationship>
+	</object>
+</objects>

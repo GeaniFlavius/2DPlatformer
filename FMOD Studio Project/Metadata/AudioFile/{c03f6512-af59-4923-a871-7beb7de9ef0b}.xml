@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{c03f6512-af59-4923-a871-7beb7de9ef0b}">
+		<property name="assetPath">
+			<value>Weapons/AUDIO/LASRGun_Plasma Rifle Bullet Stream_02.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>1.9977291666666666</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{b164566c-9a00-4f29-ad25-fe2857e09427}</destination>
+		</relationship>
+	</object>
+</objects>

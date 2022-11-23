@@ -1,0 +1,2122 @@
+fileFormatVersion: 2
+guid: fd12d928144754bc2989cbb7c0ad221e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5017262784008451659
+    second: CloudBossIdle-Sheet_0
+  - first:
+      213: -7232612474238651005
+    second: CloudBossIdle-Sheet_1
+  - first:
+      213: -2997779903029343475
+    second: CloudBossIdle-Sheet_2
+  - first:
+      213: -7255491246271395077
+    second: CloudBossIdle-Sheet_3
+  - first:
+      213: 5646444897436763204
+    second: CloudBossIdle-Sheet_4
+  - first:
+      213: 316556467218094443
+    second: CloudBossIdle-Sheet_5
+  - first:
+      213: 4064057550843038473
+    second: CloudBossIdle-Sheet_6
+  - first:
+      213: 36702389579660350
+    second: CloudBossIdle-Sheet_7
+  - first:
+      213: 120418856263191796
+    second: CloudBossIdle-Sheet_8
+  - first:
+      213: 5512416603828749294
+    second: CloudBossIdle-Sheet_9
+  - first:
+      213: 4706965331712438059
+    second: CloudBossIdle-Sheet_10
+  - first:
+      213: -1952974619905423132
+    second: CloudBossIdle-Sheet_11
+  - first:
+      213: 5018596869382260135
+    second: CloudBossIdle-Sheet_12
+  - first:
+      213: -8025897996937762580
+    second: CloudBossIdle-Sheet_13
+  - first:
+      213: -1177360212155850555
+    second: CloudBossIdle-Sheet_14
+  - first:
+      213: -7904597644667657366
+    second: CloudBossIdle-Sheet_15
+  - first:
+      213: -2446575195302020868
+    second: CloudBossIdle-Sheet_16
+  - first:
+      213: 8221188874473228587
+    second: CloudBossIdle-Sheet_17
+  - first:
+      213: 6494684019806181388
+    second: CloudBossIdle-Sheet_18
+  - first:
+      213: -6980047675897896584
+    second: CloudBossIdle-Sheet_19
+  - first:
+      213: 6306147158852521477
+    second: CloudBossIdle-Sheet_20
+  - first:
+      213: 4408285799586024790
+    second: CloudBossIdle-Sheet_21
+  - first:
+      213: 1886465688181393861
+    second: CloudBossIdle-Sheet_22
+  - first:
+      213: -5973049691273857029
+    second: CloudBossIdle-Sheet_23
+  - first:
+      213: -3842233469862894206
+    second: CloudBossIdle-Sheet_24
+  - first:
+      213: 8582120543186780511
+    second: CloudBossIdle-Sheet_25
+  - first:
+      213: 1353666345021389307
+    second: CloudBossIdle-Sheet_26
+  - first:
+      213: 3910073689504396009
+    second: CloudBossIdle-Sheet_27
+  - first:
+      213: -1444535027350839236
+    second: CloudBossIdle-Sheet_28
+  - first:
+      213: 7425358023080895008
+    second: CloudBossIdle-Sheet_29
+  - first:
+      213: -4432675718462446378
+    second: CloudBossIdle-Sheet_30
+  - first:
+      213: 6843566931209894772
+    second: CloudBossIdle-Sheet_31
+  - first:
+      213: 403738189020856359
+    second: CloudBossIdle-Sheet_32
+  - first:
+      213: -7854609335219063551
+    second: CloudBossIdle-Sheet_33
+  - first:
+      213: 896214244455925645
+    second: CloudBossIdle-Sheet_34
+  - first:
+      213: 8386092892064306003
+    second: CloudBossIdle-Sheet_35
+  - first:
+      213: 6793029414892929061
+    second: CloudBossIdle-Sheet_36
+  - first:
+      213: -8329181078632231030
+    second: CloudBossIdle-Sheet_37
+  - first:
+      213: -1927465746355331094
+    second: CloudBossIdle-Sheet_38
+  - first:
+      213: -926702688750865582
+    second: CloudBossIdle-Sheet_39
+  - first:
+      213: -7265418609196170461
+    second: CloudBossIdle-Sheet_40
+  - first:
+      213: 3421520059557865297
+    second: CloudBossIdle-Sheet_41
+  - first:
+      213: 4799703802564625107
+    second: CloudBossIdle-Sheet_42
+  - first:
+      213: 8340950162983017964
+    second: CloudBossIdle-Sheet_43
+  - first:
+      213: -3195216317075267818
+    second: CloudBossIdle-Sheet_44
+  - first:
+      213: 199020869428982552
+    second: CloudBossIdle-Sheet_45
+  - first:
+      213: -2822072892430186349
+    second: CloudBossIdle-Sheet_46
+  - first:
+      213: -5957641658983018248
+    second: CloudBossIdle-Sheet_47
+  - first:
+      213: 3723652510515858309
+    second: CloudBossIdle-Sheet_48
+  - first:
+      213: -493253708313921683
+    second: CloudBossIdle-Sheet_49
+  - first:
+      213: -8781616389865613370
+    second: CloudBossIdle-Sheet_50
+  - first:
+      213: -4027631006878752218
+    second: CloudBossIdle-Sheet_51
+  - first:
+      213: 8732293280607301764
+    second: CloudBossIdle-Sheet_52
+  - first:
+      213: -2866994228799405126
+    second: CloudBossIdle-Sheet_53
+  - first:
+      213: -1310943657950103665
+    second: CloudBossIdle-Sheet_54
+  - first:
+      213: -8510889149011621364
+    second: CloudBossIdle-Sheet_55
+  - first:
+      213: 2855577936914186675
+    second: CloudBossIdle-Sheet_56
+  - first:
+      213: 6656680803091526406
+    second: CloudBossIdle-Sheet_57
+  - first:
+      213: -4578476400656634250
+    second: CloudBossIdle-Sheet_58
+  - first:
+      213: -4245372316228340085
+    second: CloudBossIdle-Sheet_59
+  - first:
+      213: 4906104879916376405
+    second: CloudBossIdle-Sheet_60
+  - first:
+      213: 1692466017964642537
+    second: CloudBossIdle-Sheet_61
+  - first:
+      213: 724577845576651555
+    second: CloudBossIdle-Sheet_62
+  - first:
+      213: 4030647467610834395
+    second: CloudBossIdle-Sheet_63
+  - first:
+      213: -84589093107776920
+    second: CloudBossIdle-Sheet_64
+  - first:
+      213: -5325321008812917576
+    second: CloudBossIdle-Sheet_65
+  - first:
+      213: 510686240411198810
+    second: CloudBossIdle-Sheet_66
+  - first:
+      213: 5325763560548866953
+    second: CloudBossIdle-Sheet_67
+  - first:
+      213: -8789357728366206454
+    second: CloudBossIdle-Sheet_68
+  - first:
+      213: -1173945176898929005
+    second: CloudBossIdle-Sheet_69
+  - first:
+      213: -7572562919580749017
+    second: CloudBossIdle-Sheet_70
+  - first:
+      213: -1761013576513826275
+    second: CloudBossIdle-Sheet_71
+  - first:
+      213: 2163966089009015631
+    second: CloudBossIdle-Sheet_72
+  - first:
+      213: 6356127306732061911
+    second: CloudBossIdle-Sheet_73
+  - first:
+      213: 7101852440327041630
+    second: CloudBossIdle-Sheet_74
+  - first:
+      213: -2817065027884938364
+    second: CloudBossIdle-Sheet_75
+  - first:
+      213: 8322893197487308144
+    second: CloudBossIdle-Sheet_76
+  - first:
+      213: 7522847223048273519
+    second: CloudBossIdle-Sheet_77
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 400
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 1
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 1
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 1
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 1
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 1
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 1
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 1
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: CloudBossIdle-Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 8192
+        width: 512
+        height: 1024
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b9836e941a1f5ab0800000000000000
+      internalID: -5017262784008451659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CloudBossIdle-Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 8192
+        width: 512
+        height: 1024
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38532f2564990ab90800000000000000
+      internalID: -7232612474238651005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CloudBossIdle-Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 8192
+        width: 512
+        height: 1024
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0b8125af0fb566d0800000000000000
+      internalID: -2997779903029343475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CloudBossIdle-Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 8192
+        width: 512
+        height: 1024
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfa890b17215f4b90800000000000000
+      internalID: -7255491246271395077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CloudBossIdle-Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 8192
+        width: 512
+        height: 1024
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4440983d7b33c5e40800000000000000
+      internalID: 5646444897436763204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CloudBossIdle-Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 8192
+        width: 512
+        height: 1024
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6913e30e62a46400800000000000000
+      internalID: 316556467218094443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CloudBossIdle-Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 8192
+        width: 512
+        height: 1024
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90b4eb86fce666830800000000000000
+      internalID: 4064057550843038473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CloudBossIdle-Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 3584
+        y: 8192
+        width: 512
+        height: 1024
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3cbd4df0a4628000800000000000000
+      internalID: 36702389579660350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CloudBossIdle-Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 4096
+        y: 8192
+        width: 512
+        height: 1024
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fc83dfcf40dba100800000000000000
+      internalID: 120418856263191796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CloudBossIdle-Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 7168
+        width: 512
+        height: 1024
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee38d25f1b9008c40800000000000000
+      internalID: 5512416603828749294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CloudBossIdle-Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 7168
+        width: 512
+        height: 1024
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2f6cc6d700825140800000000000000
+      internalID: 4706965331712438059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CloudBossIdle-Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 7168
+        width: 512
+        height: 1024
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e80f253ee3a5e4e0800000000000000
+      internalID: -1952974619905423132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CloudBossIdle-Sheet_12
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 7168
+        width: 512
+        height: 1024
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a5ca665343a5a540800000000000000
+      internalID: 5018596869382260135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CloudBossIdle-Sheet_13
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 7168
+        width: 512
+        height: 1024
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce861097b484e9090800000000000000
+      internalID: -8025897996937762580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CloudBossIdle-Sheet_14
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 7168
+        width: 512
+        height: 1024
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c0a5cdff1d29afe0800000000000000
+      internalID: -1177360212155850555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CloudBossIdle-Sheet_15
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 7168
+        width: 512
+        height: 1024
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a63e131925a3d4290800000000000000
+      internalID: -7904597644667657366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CloudBossIdle-Sheet_16
+      rect:
+        serializedVersion: 2
+        x: 3584
+        y: 7168
+        width: 512
+        height: 1024
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf8bdb782d40c0ed0800000000000000
+      internalID: -2446575195302020868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CloudBossIdle-Sheet_17
+      rect:
+        serializedVersion: 2
+        x: 4096
+        y: 7168
+        width: 512
+        height: 1024
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b29ce5e39b7871270800000000000000
+      internalID: 8221188874473228587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CloudBossIdle-Sheet_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6144
+        width: 512
+        height: 1024
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0814f8a4b0c12a50800000000000000
+      internalID: 6494684019806181388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CloudBossIdle-Sheet_19
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 6144
+        width: 512
+        height: 1024
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 871a0d2ee93e12f90800000000000000
+      internalID: -6980047675897896584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CloudBossIdle-Sheet_20
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 6144
+        width: 512
+        height: 1024
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50e4eb8fd6fe38750800000000000000
+      internalID: 6306147158852521477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CloudBossIdle-Sheet_21
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 6144
+        width: 512
+        height: 1024
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65d49b024906d2d30800000000000000
+      internalID: 4408285799586024790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CloudBossIdle-Sheet_22
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 6144
+        width: 512
+        height: 1024
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c9c3096c821e2a10800000000000000
+      internalID: 1886465688181393861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CloudBossIdle-Sheet_23
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 6144
+        width: 512
+        height: 1024
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf77dddc3f67b1da0800000000000000
+      internalID: -5973049691273857029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CloudBossIdle-Sheet_24
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 6144
+        width: 512
+        height: 1024
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 285a4b42405adaac0800000000000000
+      internalID: -3842233469862894206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CloudBossIdle-Sheet_25
+      rect:
+        serializedVersion: 2
+        x: 3584
+        y: 6144
+        width: 512
+        height: 1024
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f510b3cf921d91770800000000000000
+      internalID: 8582120543186780511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CloudBossIdle-Sheet_26
+      rect:
+        serializedVersion: 2
+        x: 4096
+        y: 6144
+        width: 512
+        height: 1024
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf9b6676e5039c210800000000000000
+      internalID: 1353666345021389307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CloudBossIdle-Sheet_27
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5120
+        width: 512
+        height: 1024
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e2b28cdd4f534630800000000000000
+      internalID: 3910073689504396009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CloudBossIdle-Sheet_28
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 5120
+        width: 512
+        height: 1024
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c30e42dcb0bf3fbe0800000000000000
+      internalID: -1444535027350839236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CloudBossIdle-Sheet_29
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 5120
+        width: 512
+        height: 1024
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02265dfd7cb2c0760800000000000000
+      internalID: 7425358023080895008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CloudBossIdle-Sheet_30
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 5120
+        width: 512
+        height: 1024
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d4eb8c5be8fb72c0800000000000000
+      internalID: -4432675718462446378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CloudBossIdle-Sheet_31
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 5120
+        width: 512
+        height: 1024
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47b306b7ddb39fe50800000000000000
+      internalID: 6843566931209894772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CloudBossIdle-Sheet_32
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 5120
+        width: 512
+        height: 1024
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72009da6ebd5a9500800000000000000
+      internalID: 403738189020856359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CloudBossIdle-Sheet_33
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 5120
+        width: 512
+        height: 1024
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 105fcc4dc62def290800000000000000
+      internalID: -7854609335219063551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CloudBossIdle-Sheet_34
+      rect:
+        serializedVersion: 2
+        x: 3584
+        y: 5120
+        width: 512
+        height: 1024
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d87c0736b1eff6c00800000000000000
+      internalID: 896214244455925645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CloudBossIdle-Sheet_35
+      rect:
+        serializedVersion: 2
+        x: 4096
+        y: 5120
+        width: 512
+        height: 1024
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 353dbeccd03616470800000000000000
+      internalID: 8386092892064306003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CloudBossIdle-Sheet_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4096
+        width: 512
+        height: 1024
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52009770340b54e50800000000000000
+      internalID: 6793029414892929061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CloudBossIdle-Sheet_37
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 4096
+        width: 512
+        height: 1024
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8f883a50fdc86c80800000000000000
+      internalID: -8329181078632231030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CloudBossIdle-Sheet_38
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 4096
+        width: 512
+        height: 1024
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aefd1c7ad144045e0800000000000000
+      internalID: -1927465746355331094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CloudBossIdle-Sheet_39
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 4096
+        width: 512
+        height: 1024
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 253fa9080d0b323f0800000000000000
+      internalID: -926702688750865582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CloudBossIdle-Sheet_40
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 4096
+        width: 512
+        height: 1024
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 323895ec44c0c2b90800000000000000
+      internalID: -7265418609196170461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CloudBossIdle-Sheet_41
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 4096
+        width: 512
+        height: 1024
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 157e1ddbd5eab7f20800000000000000
+      internalID: 3421520059557865297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CloudBossIdle-Sheet_42
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 4096
+        width: 512
+        height: 1024
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d2c4f2bd29fb9240800000000000000
+      internalID: 4799703802564625107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CloudBossIdle-Sheet_43
+      rect:
+        serializedVersion: 2
+        x: 3584
+        y: 4096
+        width: 512
+        height: 1024
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cedd6d12bf101c370800000000000000
+      internalID: 8340950162983017964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CloudBossIdle-Sheet_44
+      rect:
+        serializedVersion: 2
+        x: 4096
+        y: 4096
+        width: 512
+        height: 1024
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61f523840bf48a3d0800000000000000
+      internalID: -3195216317075267818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CloudBossIdle-Sheet_45
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3072
+        width: 512
+        height: 1024
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81334312d6013c200800000000000000
+      internalID: 199020869428982552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CloudBossIdle-Sheet_46
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 3072
+        width: 512
+        height: 1024
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 398807408abf5d8d0800000000000000
+      internalID: -2822072892430186349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CloudBossIdle-Sheet_47
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 3072
+        width: 512
+        height: 1024
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f09f31e974325da0800000000000000
+      internalID: -5957641658983018248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CloudBossIdle-Sheet_48
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 3072
+        width: 512
+        height: 1024
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58b0a44ca321da330800000000000000
+      internalID: 3723652510515858309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CloudBossIdle-Sheet_49
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 3072
+        width: 512
+        height: 1024
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d67fdcb9d5c9729f0800000000000000
+      internalID: -493253708313921683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CloudBossIdle-Sheet_50
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 3072
+        width: 512
+        height: 1024
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c7df40ab6e612680800000000000000
+      internalID: -8781616389865613370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CloudBossIdle-Sheet_51
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 3072
+        width: 512
+        height: 1024
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 622a4a440fafa18c0800000000000000
+      internalID: -4027631006878752218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CloudBossIdle-Sheet_52
+      rect:
+        serializedVersion: 2
+        x: 3584
+        y: 3072
+        width: 512
+        height: 1024
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 480f02919765f2970800000000000000
+      internalID: 8732293280607301764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CloudBossIdle-Sheet_53
+      rect:
+        serializedVersion: 2
+        x: 4096
+        y: 3072
+        width: 512
+        height: 1024
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab3015b50f36638d0800000000000000
+      internalID: -2866994228799405126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CloudBossIdle-Sheet_54
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2048
+        width: 512
+        height: 1024
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f87355350b79ecde0800000000000000
+      internalID: -1310943657950103665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CloudBossIdle-Sheet_55
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 2048
+        width: 512
+        height: 1024
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0a8f6e596f33e980800000000000000
+      internalID: -8510889149011621364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CloudBossIdle-Sheet_56
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 2048
+        width: 512
+        height: 1024
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b1863e010d01a720800000000000000
+      internalID: 2855577936914186675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CloudBossIdle-Sheet_57
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 2048
+        width: 512
+        height: 1024
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 603be6bfbe7416c50800000000000000
+      internalID: 6656680803091526406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CloudBossIdle-Sheet_58
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 2048
+        width: 512
+        height: 1024
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67e2a5ea8fbf570c0800000000000000
+      internalID: -4578476400656634250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CloudBossIdle-Sheet_59
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 2048
+        width: 512
+        height: 1024
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b86beef0f586515c0800000000000000
+      internalID: -4245372316228340085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CloudBossIdle-Sheet_60
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 2048
+        width: 512
+        height: 1024
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 551e936056cf51440800000000000000
+      internalID: 4906104879916376405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CloudBossIdle-Sheet_61
+      rect:
+        serializedVersion: 2
+        x: 3584
+        y: 2048
+        width: 512
+        height: 1024
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e0d33350e8dc7710800000000000000
+      internalID: 1692466017964642537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CloudBossIdle-Sheet_62
+      rect:
+        serializedVersion: 2
+        x: 4096
+        y: 2048
+        width: 512
+        height: 1024
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 323d6b926b73e0a00800000000000000
+      internalID: 724577845576651555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CloudBossIdle-Sheet_63
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1024
+        width: 512
+        height: 1024
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd585c9348cbfe730800000000000000
+      internalID: 4030647467610834395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CloudBossIdle-Sheet_64
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1024
+        width: 512
+        height: 1024
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86240710baa73def0800000000000000
+      internalID: -84589093107776920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CloudBossIdle-Sheet_65
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1024
+        width: 512
+        height: 1024
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bcf7cad1c8a816b0800000000000000
+      internalID: -5325321008812917576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CloudBossIdle-Sheet_66
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 1024
+        width: 512
+        height: 1024
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a55a36f0e62561700800000000000000
+      internalID: 510686240411198810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CloudBossIdle-Sheet_67
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 1024
+        width: 512
+        height: 1024
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98b1c30cdb9e8e940800000000000000
+      internalID: 5325763560548866953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CloudBossIdle-Sheet_68
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 1024
+        width: 512
+        height: 1024
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a02e5ecc6bde50680800000000000000
+      internalID: -8789357728366206454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CloudBossIdle-Sheet_69
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 1024
+        width: 512
+        height: 1024
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39ef729d41f45bfe0800000000000000
+      internalID: -1173945176898929005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CloudBossIdle-Sheet_70
+      rect:
+        serializedVersion: 2
+        x: 3584
+        y: 1024
+        width: 512
+        height: 1024
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7233813552ad8e690800000000000000
+      internalID: -7572562919580749017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CloudBossIdle-Sheet_71
+      rect:
+        serializedVersion: 2
+        x: 4096
+        y: 1024
+        width: 512
+        height: 1024
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d12d04f7b7f9f87e0800000000000000
+      internalID: -1761013576513826275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CloudBossIdle-Sheet_72
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 512
+        height: 1024
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4baf5951b3f70e10800000000000000
+      internalID: 2163966089009015631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CloudBossIdle-Sheet_73
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 0
+        width: 512
+        height: 1024
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d4cce8fb10853850800000000000000
+      internalID: 6356127306732061911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CloudBossIdle-Sheet_74
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 0
+        width: 512
+        height: 1024
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e523fe0da29de8260800000000000000
+      internalID: 7101852440327041630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CloudBossIdle-Sheet_75
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 0
+        width: 512
+        height: 1024
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48b0eb75846c7e8d0800000000000000
+      internalID: -2817065027884938364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CloudBossIdle-Sheet_76
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 0
+        width: 512
+        height: 1024
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07dfebb344bd08370800000000000000
+      internalID: 8322893197487308144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CloudBossIdle-Sheet_77
+      rect:
+        serializedVersion: 2
+        x: 4096
+        y: 0
+        width: 512
+        height: 1024
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6e735d01b5866860800000000000000
+      internalID: 7522847223048273519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: b4f41456db12f41e8880c1b288b3bd58
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      CloudBossIdle-Sheet_17: 8221188874473228587
+      CloudBossIdle-Sheet_57: 6656680803091526406
+      CloudBossIdle-Sheet_65: -5325321008812917576
+      CloudBossIdle-Sheet_61: 1692466017964642537
+      CloudBossIdle-Sheet_6: 4064057550843038473
+      CloudBossIdle-Sheet_31: 6843566931209894772
+      CloudBossIdle-Sheet_27: 3910073689504396009
+      CloudBossIdle-Sheet_39: -926702688750865582
+      CloudBossIdle-Sheet_48: 3723652510515858309
+      CloudBossIdle-Sheet_10: 4706965331712438059
+      CloudBossIdle-Sheet_25: 8582120543186780511
+      CloudBossIdle-Sheet_20: 6306147158852521477
+      CloudBossIdle-Sheet_36: 6793029414892929061
+      CloudBossIdle-Sheet_23: -5973049691273857029
+      CloudBossIdle-Sheet_35: 8386092892064306003
+      CloudBossIdle-Sheet_3: -7255491246271395077
+      CloudBossIdle-Sheet_13: -8025897996937762580
+      CloudBossIdle-Sheet_75: -2817065027884938364
+      CloudBossIdle-Sheet_24: -3842233469862894206
+      CloudBossIdle-Sheet_34: 896214244455925645
+      CloudBossIdle-Sheet_53: -2866994228799405126
+      CloudBossIdle-Sheet_55: -8510889149011621364
+      CloudBossIdle-Sheet_38: -1927465746355331094
+      CloudBossIdle-Sheet_30: -4432675718462446378
+      CloudBossIdle-Sheet_11: -1952974619905423132
+      CloudBossIdle-Sheet_19: -6980047675897896584
+      CloudBossIdle-Sheet_43: 8340950162983017964
+      CloudBossIdle-Sheet_56: 2855577936914186675
+      CloudBossIdle-Sheet_67: 5325763560548866953
+      CloudBossIdle-Sheet_46: -2822072892430186349
+      CloudBossIdle-Sheet_76: 8322893197487308144
+      CloudBossIdle-Sheet_60: 4906104879916376405
+      CloudBossIdle-Sheet_1: -7232612474238651005
+      CloudBossIdle-Sheet_47: -5957641658983018248
+      CloudBossIdle-Sheet_68: -8789357728366206454
+      CloudBossIdle-Sheet_51: -4027631006878752218
+      CloudBossIdle-Sheet_63: 4030647467610834395
+      CloudBossIdle-Sheet_64: -84589093107776920
+      CloudBossIdle-Sheet_33: -7854609335219063551
+      CloudBossIdle-Sheet_66: 510686240411198810
+      CloudBossIdle-Sheet_59: -4245372316228340085
+      CloudBossIdle-Sheet_69: -1173945176898929005
+      CloudBossIdle-Sheet_2: -2997779903029343475
+      CloudBossIdle-Sheet_70: -7572562919580749017
+      CloudBossIdle-Sheet_77: 7522847223048273519
+      CloudBossIdle-Sheet_28: -1444535027350839236
+      CloudBossIdle-Sheet_21: 4408285799586024790
+      CloudBossIdle-Sheet_71: -1761013576513826275
+      CloudBossIdle-Sheet_0: -5017262784008451659
+      CloudBossIdle-Sheet_5: 316556467218094443
+      CloudBossIdle-Sheet_50: -8781616389865613370
+      CloudBossIdle-Sheet_72: 2163966089009015631
+      CloudBossIdle-Sheet_73: 6356127306732061911
+      CloudBossIdle-Sheet_52: 8732293280607301764
+      CloudBossIdle-Sheet_8: 120418856263191796
+      CloudBossIdle-Sheet_58: -4578476400656634250
+      CloudBossIdle-Sheet_40: -7265418609196170461
+      CloudBossIdle-Sheet_62: 724577845576651555
+      CloudBossIdle-Sheet_74: 7101852440327041630
+      CloudBossIdle-Sheet_9: 5512416603828749294
+      CloudBossIdle-Sheet_4: 5646444897436763204
+      CloudBossIdle-Sheet_16: -2446575195302020868
+      CloudBossIdle-Sheet_7: 36702389579660350
+      CloudBossIdle-Sheet_15: -7904597644667657366
+      CloudBossIdle-Sheet_29: 7425358023080895008
+      CloudBossIdle-Sheet_42: 4799703802564625107
+      CloudBossIdle-Sheet_22: 1886465688181393861
+      CloudBossIdle-Sheet_49: -493253708313921683
+      CloudBossIdle-Sheet_14: -1177360212155850555
+      CloudBossIdle-Sheet_44: -3195216317075267818
+      CloudBossIdle-Sheet_54: -1310943657950103665
+      CloudBossIdle-Sheet_26: 1353666345021389307
+      CloudBossIdle-Sheet_37: -8329181078632231030
+      CloudBossIdle-Sheet_32: 403738189020856359
+      CloudBossIdle-Sheet_18: 6494684019806181388
+      CloudBossIdle-Sheet_41: 3421520059557865297
+      CloudBossIdle-Sheet_45: 199020869428982552
+      CloudBossIdle-Sheet_12: 5018596869382260135
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

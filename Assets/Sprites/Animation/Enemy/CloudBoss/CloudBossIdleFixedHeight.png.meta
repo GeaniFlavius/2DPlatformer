@@ -1,0 +1,1222 @@
+fileFormatVersion: 2
+guid: 98c2b6158b1064541a903fafc4d0603a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 440471260058894845
+    second: CloudBossIdleFixedHeight_0
+  - first:
+      213: -8290784168631521385
+    second: CloudBossIdleFixedHeight_1
+  - first:
+      213: 4776578614206423675
+    second: CloudBossIdleFixedHeight_2
+  - first:
+      213: -6103350924286810618
+    second: CloudBossIdleFixedHeight_3
+  - first:
+      213: 4121882367189023926
+    second: CloudBossIdleFixedHeight_4
+  - first:
+      213: -2943404806286086698
+    second: CloudBossIdleFixedHeight_5
+  - first:
+      213: 4165253922322711441
+    second: CloudBossIdleFixedHeight_6
+  - first:
+      213: -4836940660044248218
+    second: CloudBossIdleFixedHeight_7
+  - first:
+      213: -5404818890059886344
+    second: CloudBossIdleFixedHeight_8
+  - first:
+      213: -2587787346037624091
+    second: CloudBossIdleFixedHeight_9
+  - first:
+      213: 204107257244159186
+    second: CloudBossIdleFixedHeight_10
+  - first:
+      213: 1413374369554380461
+    second: CloudBossIdleFixedHeight_11
+  - first:
+      213: -7493946296812013354
+    second: CloudBossIdleFixedHeight_12
+  - first:
+      213: 2820989408927276845
+    second: CloudBossIdleFixedHeight_13
+  - first:
+      213: 7003078348394406633
+    second: CloudBossIdleFixedHeight_14
+  - first:
+      213: 6097999683238012492
+    second: CloudBossIdleFixedHeight_15
+  - first:
+      213: 3189165861561160125
+    second: CloudBossIdleFixedHeight_16
+  - first:
+      213: -4049236119610261450
+    second: CloudBossIdleFixedHeight_17
+  - first:
+      213: 3268010556079284170
+    second: CloudBossIdleFixedHeight_18
+  - first:
+      213: -5265981827965641677
+    second: CloudBossIdleFixedHeight_19
+  - first:
+      213: -1168464379144930715
+    second: CloudBossIdleFixedHeight_20
+  - first:
+      213: 4752120542796020635
+    second: CloudBossIdleFixedHeight_21
+  - first:
+      213: 5839322968516683456
+    second: CloudBossIdleFixedHeight_22
+  - first:
+      213: -2892416324050431250
+    second: CloudBossIdleFixedHeight_23
+  - first:
+      213: 4109398869887798366
+    second: CloudBossIdleFixedHeight_24
+  - first:
+      213: 757218421200709561
+    second: CloudBossIdleFixedHeight_25
+  - first:
+      213: -3091969663506930306
+    second: CloudBossIdleFixedHeight_26
+  - first:
+      213: 3431234454031809591
+    second: CloudBossIdleFixedHeight_27
+  - first:
+      213: -1734174519595725567
+    second: CloudBossIdleFixedHeight_28
+  - first:
+      213: 2237795406203191734
+    second: CloudBossIdleFixedHeight_29
+  - first:
+      213: -3618780278666522011
+    second: CloudBossIdleFixedHeight_30
+  - first:
+      213: -766633485690490852
+    second: CloudBossIdleFixedHeight_31
+  - first:
+      213: -106956569819777155
+    second: CloudBossIdleFixedHeight_32
+  - first:
+      213: -4064360868175736339
+    second: CloudBossIdleFixedHeight_33
+  - first:
+      213: 86657090977861729
+    second: CloudBossIdleFixedHeight_34
+  - first:
+      213: 194949525265666764
+    second: CloudBossIdleFixedHeight_35
+  - first:
+      213: 7133995191040364854
+    second: CloudBossIdleFixedHeight_36
+  - first:
+      213: 4961686576244217644
+    second: CloudBossIdleFixedHeight_37
+  - first:
+      213: 1905100623146013091
+    second: CloudBossIdleFixedHeight_38
+  - first:
+      213: -9109386321833508586
+    second: CloudBossIdleFixedHeight_39
+  - first:
+      213: -1660022140977901997
+    second: CloudBossIdleFixedHeight_40
+  - first:
+      213: -3469133960022773039
+    second: CloudBossIdleFixedHeight_41
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 500
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: CloudBossIdleFixedHeight_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6400
+        width: 640
+        height: 1280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df1449df64edc1600800000000000000
+      internalID: 440471260058894845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CloudBossIdleFixedHeight_1
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 6400
+        width: 640
+        height: 1280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79f294f99b731fc80800000000000000
+      internalID: -8290784168631521385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CloudBossIdleFixedHeight_2
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 6400
+        width: 640
+        height: 1280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b72608531f0d94240800000000000000
+      internalID: 4776578614206423675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CloudBossIdleFixedHeight_3
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 6400
+        width: 640
+        height: 1280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 606255adbaa8c4ba0800000000000000
+      internalID: -6103350924286810618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CloudBossIdleFixedHeight_4
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 6400
+        width: 640
+        height: 1280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bc7f3e9c2ed33930800000000000000
+      internalID: 4121882367189023926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CloudBossIdleFixedHeight_5
+      rect:
+        serializedVersion: 2
+        x: 3200
+        y: 6400
+        width: 640
+        height: 1280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dde32b6cece627d0800000000000000
+      internalID: -2943404806286086698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CloudBossIdleFixedHeight_6
+      rect:
+        serializedVersion: 2
+        x: 3840
+        y: 6400
+        width: 640
+        height: 1280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1930957bf54fdc930800000000000000
+      internalID: 4165253922322711441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CloudBossIdleFixedHeight_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5120
+        width: 640
+        height: 1280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66b4b6ec81cbfdcb0800000000000000
+      internalID: -4836940660044248218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CloudBossIdleFixedHeight_8
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 5120
+        width: 640
+        height: 1280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f0d8aefad93ef4b0800000000000000
+      internalID: -5404818890059886344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CloudBossIdleFixedHeight_9
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 5120
+        width: 640
+        height: 1280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e23d259e15561cd0800000000000000
+      internalID: -2587787346037624091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CloudBossIdleFixedHeight_10
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 5120
+        width: 640
+        height: 1280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dc0e14187225d200800000000000000
+      internalID: 204107257244159186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CloudBossIdleFixedHeight_11
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 5120
+        width: 640
+        height: 1280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da63eef20805d9310800000000000000
+      internalID: 1413374369554380461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CloudBossIdleFixedHeight_12
+      rect:
+        serializedVersion: 2
+        x: 3200
+        y: 5120
+        width: 640
+        height: 1280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d87aa43c87200890800000000000000
+      internalID: -7493946296812013354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CloudBossIdleFixedHeight_13
+      rect:
+        serializedVersion: 2
+        x: 3840
+        y: 5120
+        width: 640
+        height: 1280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2fdf32dbea262720800000000000000
+      internalID: 2820989408927276845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CloudBossIdleFixedHeight_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3840
+        width: 640
+        height: 1280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e2274a67aeef2160800000000000000
+      internalID: 7003078348394406633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CloudBossIdleFixedHeight_15
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 3840
+        width: 640
+        height: 1280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c46a8df376270a450800000000000000
+      internalID: 6097999683238012492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CloudBossIdleFixedHeight_16
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 3840
+        width: 640
+        height: 1280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db1d7244471324c20800000000000000
+      internalID: 3189165861561160125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CloudBossIdleFixedHeight_17
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 3840
+        width: 640
+        height: 1280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63003f6f3393ec7c0800000000000000
+      internalID: -4049236119610261450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CloudBossIdleFixedHeight_18
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 3840
+        width: 640
+        height: 1280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acf155d394e4a5d20800000000000000
+      internalID: 3268010556079284170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CloudBossIdleFixedHeight_19
+      rect:
+        serializedVersion: 2
+        x: 3200
+        y: 3840
+        width: 640
+        height: 1280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33c12768d697be6b0800000000000000
+      internalID: -5265981827965641677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CloudBossIdleFixedHeight_20
+      rect:
+        serializedVersion: 2
+        x: 3840
+        y: 3840
+        width: 640
+        height: 1280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56a7e5486d7c8cfe0800000000000000
+      internalID: -1168464379144930715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CloudBossIdleFixedHeight_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2560
+        width: 640
+        height: 1280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9b7133b47ce2f140800000000000000
+      internalID: 4752120542796020635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CloudBossIdleFixedHeight_22
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 2560
+        width: 640
+        height: 1280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c667334d41790150800000000000000
+      internalID: 5839322968516683456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CloudBossIdleFixedHeight_23
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 2560
+        width: 640
+        height: 1280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee2de6e8da21cd7d0800000000000000
+      internalID: -2892416324050431250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CloudBossIdleFixedHeight_24
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 2560
+        width: 640
+        height: 1280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5ccd08ef74870930800000000000000
+      internalID: 4109398869887798366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CloudBossIdleFixedHeight_25
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 2560
+        width: 640
+        height: 1280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b7ec05642e228a00800000000000000
+      internalID: 757218421200709561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CloudBossIdleFixedHeight_26
+      rect:
+        serializedVersion: 2
+        x: 3200
+        y: 2560
+        width: 640
+        height: 1280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e75a26619fd1715d0800000000000000
+      internalID: -3091969663506930306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CloudBossIdleFixedHeight_27
+      rect:
+        serializedVersion: 2
+        x: 3840
+        y: 2560
+        width: 640
+        height: 1280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73cb5a57e813e9f20800000000000000
+      internalID: 3431234454031809591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CloudBossIdleFixedHeight_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1280
+        width: 640
+        height: 1280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10d86f46679fee7e0800000000000000
+      internalID: -1734174519595725567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CloudBossIdleFixedHeight_29
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 1280
+        width: 640
+        height: 1280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b10ebac01f3e0f10800000000000000
+      internalID: 2237795406203191734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CloudBossIdleFixedHeight_30
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 1280
+        width: 640
+        height: 1280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56294e9728287cdc0800000000000000
+      internalID: -3618780278666522011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CloudBossIdleFixedHeight_31
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 1280
+        width: 640
+        height: 1280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c10bf7418ee5c55f0800000000000000
+      internalID: -766633485690490852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CloudBossIdleFixedHeight_32
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 1280
+        width: 640
+        height: 1280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d777f710193048ef0800000000000000
+      internalID: -106956569819777155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CloudBossIdleFixedHeight_33
+      rect:
+        serializedVersion: 2
+        x: 3200
+        y: 1280
+        width: 640
+        height: 1280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de11365035d7897c0800000000000000
+      internalID: -4064360868175736339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CloudBossIdleFixedHeight_34
+      rect:
+        serializedVersion: 2
+        x: 3840
+        y: 1280
+        width: 640
+        height: 1280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16011054a2ed33100800000000000000
+      internalID: 86657090977861729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CloudBossIdleFixedHeight_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 640
+        height: 1280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc257927f8994b200800000000000000
+      internalID: 194949525265666764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CloudBossIdleFixedHeight_36
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 0
+        width: 640
+        height: 1280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6315e4724da010360800000000000000
+      internalID: 7133995191040364854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CloudBossIdleFixedHeight_37
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 0
+        width: 640
+        height: 1280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c275cd727a37bd440800000000000000
+      internalID: 4961686576244217644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CloudBossIdleFixedHeight_38
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 0
+        width: 640
+        height: 1280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a15eff4ce6407a10800000000000000
+      internalID: 1905100623146013091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CloudBossIdleFixedHeight_39
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 0
+        width: 640
+        height: 1280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 611cf456765f49180800000000000000
+      internalID: -9109386321833508586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CloudBossIdleFixedHeight_40
+      rect:
+        serializedVersion: 2
+        x: 3200
+        y: 0
+        width: 640
+        height: 1280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35e8abf68aa66f8e0800000000000000
+      internalID: -1660022140977901997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CloudBossIdleFixedHeight_41
+      rect:
+        serializedVersion: 2
+        x: 3840
+        y: 0
+        width: 640
+        height: 1280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d2399a2b092bdfc0800000000000000
+      internalID: -3469133960022773039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: df8c50c8c1c2c4482992518f7baf9ba2
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      CloudBossIdleFixedHeight_38: 1905100623146013091
+      CloudBossIdleFixedHeight_30: -3618780278666522011
+      CloudBossIdleFixedHeight_41: -3469133960022773039
+      CloudBossIdleFixedHeight_7: -4836940660044248218
+      CloudBossIdleFixedHeight_31: -766633485690490852
+      CloudBossIdleFixedHeight_37: 4961686576244217644
+      CloudBossIdleFixedHeight_28: -1734174519595725567
+      CloudBossIdleFixedHeight_15: 6097999683238012492
+      CloudBossIdleFixedHeight_21: 4752120542796020635
+      CloudBossIdleFixedHeight_36: 7133995191040364854
+      CloudBossIdleFixedHeight_22: 5839322968516683456
+      CloudBossIdleFixedHeight_18: 3268010556079284170
+      CloudBossIdleFixedHeight_23: -2892416324050431250
+      CloudBossIdleFixedHeight_35: 194949525265666764
+      CloudBossIdleFixedHeight_11: 1413374369554380461
+      CloudBossIdleFixedHeight_1: -8290784168631521385
+      CloudBossIdleFixedHeight_2: 4776578614206423675
+      CloudBossIdleFixedHeight_19: -5265981827965641677
+      CloudBossIdleFixedHeight_14: 7003078348394406633
+      CloudBossIdleFixedHeight_25: 757218421200709561
+      CloudBossIdleFixedHeight_20: -1168464379144930715
+      CloudBossIdleFixedHeight_40: -1660022140977901997
+      CloudBossIdleFixedHeight_32: -106956569819777155
+      CloudBossIdleFixedHeight_16: 3189165861561160125
+      CloudBossIdleFixedHeight_12: -7493946296812013354
+      CloudBossIdleFixedHeight_0: 440471260058894845
+      CloudBossIdleFixedHeight_8: -5404818890059886344
+      CloudBossIdleFixedHeight_29: 2237795406203191734
+      CloudBossIdleFixedHeight_5: -2943404806286086698
+      CloudBossIdleFixedHeight_17: -4049236119610261450
+      CloudBossIdleFixedHeight_13: 2820989408927276845
+      CloudBossIdleFixedHeight_34: 86657090977861729
+      CloudBossIdleFixedHeight_27: 3431234454031809591
+      CloudBossIdleFixedHeight_4: 4121882367189023926
+      CloudBossIdleFixedHeight_3: -6103350924286810618
+      CloudBossIdleFixedHeight_9: -2587787346037624091
+      CloudBossIdleFixedHeight_24: 4109398869887798366
+      CloudBossIdleFixedHeight_26: -3091969663506930306
+      CloudBossIdleFixedHeight_33: -4064360868175736339
+      CloudBossIdleFixedHeight_10: 204107257244159186
+      CloudBossIdleFixedHeight_39: -9109386321833508586
+      CloudBossIdleFixedHeight_6: 4165253922322711441
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

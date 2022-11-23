@@ -1,0 +1,2497 @@
+fileFormatVersion: 2
+guid: b290d4dd4dc29324b88b145f2ac15449
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -102771177384447761
+    second: Template Animation Sheet_0
+  - first:
+      213: -1700993829174458704
+    second: Template Animation Sheet_1
+  - first:
+      213: -1261190341248011798
+    second: Template Animation Sheet_2
+  - first:
+      213: -1131424309560388269
+    second: Template Animation Sheet_3
+  - first:
+      213: -5937111137354240626
+    second: Template Animation Sheet_4
+  - first:
+      213: -167098157650790228
+    second: Template Animation Sheet_5
+  - first:
+      213: -3403021539867739680
+    second: Template Animation Sheet_6
+  - first:
+      213: -5243055193896787895
+    second: Template Animation Sheet_7
+  - first:
+      213: 5567370373530428193
+    second: Template Animation Sheet_8
+  - first:
+      213: 7225850984776539043
+    second: Template Animation Sheet_9
+  - first:
+      213: 6909021977150819935
+    second: Template Animation Sheet_10
+  - first:
+      213: 1781266630741632137
+    second: Template Animation Sheet_11
+  - first:
+      213: -535134363359946549
+    second: Template Animation Sheet_12
+  - first:
+      213: -8192467874894195611
+    second: Template Animation Sheet_13
+  - first:
+      213: -8030854220305911306
+    second: Template Animation Sheet_14
+  - first:
+      213: -5069765450403839501
+    second: Template Animation Sheet_15
+  - first:
+      213: 7943204949536176003
+    second: Template Animation Sheet_16
+  - first:
+      213: 4293642839497025064
+    second: Template Animation Sheet_17
+  - first:
+      213: 3170685219345054752
+    second: Template Animation Sheet_18
+  - first:
+      213: 2803150402871253467
+    second: Template Animation Sheet_19
+  - first:
+      213: -991678596007966870
+    second: Template Animation Sheet_20
+  - first:
+      213: -7745185127829179327
+    second: Template Animation Sheet_21
+  - first:
+      213: 5186215980389662618
+    second: Template Animation Sheet_22
+  - first:
+      213: -7730544168557869045
+    second: Template Animation Sheet_23
+  - first:
+      213: 2078943521634598934
+    second: Template Animation Sheet_24
+  - first:
+      213: 5623859252520966535
+    second: Template Animation Sheet_25
+  - first:
+      213: 6283829442068518507
+    second: Template Animation Sheet_26
+  - first:
+      213: 6970537914027656647
+    second: Template Animation Sheet_27
+  - first:
+      213: -8189571274183335360
+    second: Template Animation Sheet_28
+  - first:
+      213: 6986171712477110060
+    second: Template Animation Sheet_29
+  - first:
+      213: -4757100693368199953
+    second: Template Animation Sheet_30
+  - first:
+      213: 4354646907082367686
+    second: Template Animation Sheet_31
+  - first:
+      213: 6456567631922258422
+    second: Template Animation Sheet_32
+  - first:
+      213: -3602985904099441152
+    second: Template Animation Sheet_33
+  - first:
+      213: -7096089334011822121
+    second: Template Animation Sheet_34
+  - first:
+      213: -4374227295263374368
+    second: Template Animation Sheet_35
+  - first:
+      213: 7543790478462342124
+    second: Template Animation Sheet_36
+  - first:
+      213: 1474886088201272400
+    second: Template Animation Sheet_37
+  - first:
+      213: 7390879140765163097
+    second: Template Animation Sheet_38
+  - first:
+      213: 6349641227974997887
+    second: Template Animation Sheet_39
+  - first:
+      213: -4521978217173436069
+    second: Template Animation Sheet_40
+  - first:
+      213: 4475130718104536351
+    second: Template Animation Sheet_41
+  - first:
+      213: -9175594856762648063
+    second: Template Animation Sheet_42
+  - first:
+      213: 629472997726657833
+    second: Template Animation Sheet_43
+  - first:
+      213: 2955417890298899812
+    second: Template Animation Sheet_44
+  - first:
+      213: -7349881197866234487
+    second: Template Animation Sheet_45
+  - first:
+      213: -370967676350464118
+    second: Template Animation Sheet_46
+  - first:
+      213: 5031989616277800579
+    second: Template Animation Sheet_47
+  - first:
+      213: -3472920761505373017
+    second: Template Animation Sheet_48
+  - first:
+      213: 4945679969791868844
+    second: Template Animation Sheet_49
+  - first:
+      213: 2900714467952186128
+    second: Template Animation Sheet_50
+  - first:
+      213: 6332140244340616953
+    second: Template Animation Sheet_51
+  - first:
+      213: -606677943818091389
+    second: Template Animation Sheet_52
+  - first:
+      213: -5741977127226301542
+    second: Template Animation Sheet_53
+  - first:
+      213: 1901968275791586210
+    second: Template Animation Sheet_54
+  - first:
+      213: -1593894209782320329
+    second: Template Animation Sheet_55
+  - first:
+      213: -525223823291631538
+    second: Template Animation Sheet_56
+  - first:
+      213: 7675210340144017358
+    second: Template Animation Sheet_57
+  - first:
+      213: -2348715773561996139
+    second: Template Animation Sheet_58
+  - first:
+      213: -2280649837165091389
+    second: Template Animation Sheet_59
+  - first:
+      213: 6201928404552957693
+    second: Template Animation Sheet_60
+  - first:
+      213: -8153293952630467990
+    second: Template Animation Sheet_61
+  - first:
+      213: 5252826452550733943
+    second: Template Animation Sheet_62
+  - first:
+      213: 6315719319089258532
+    second: Template Animation Sheet_63
+  - first:
+      213: -6489482541336166789
+    second: Template Animation Sheet_64
+  - first:
+      213: -4506941403449179840
+    second: Template Animation Sheet_65
+  - first:
+      213: 8684158571356087344
+    second: Template Animation Sheet_66
+  - first:
+      213: 4294301403450536557
+    second: Template Animation Sheet_67
+  - first:
+      213: -6141587299657110810
+    second: Template Animation Sheet_68
+  - first:
+      213: -2028023545274949286
+    second: Template Animation Sheet_69
+  - first:
+      213: 3137784178653755372
+    second: Template Animation Sheet_70
+  - first:
+      213: -835153707552129490
+    second: Template Animation Sheet_71
+  - first:
+      213: 4662146674642905641
+    second: Template Animation Sheet_72
+  - first:
+      213: -185291100338248093
+    second: Template Animation Sheet_73
+  - first:
+      213: -2163740600393096638
+    second: Template Animation Sheet_74
+  - first:
+      213: 5750133143252953606
+    second: Template Animation Sheet_75
+  - first:
+      213: 2466816493006069010
+    second: Template Animation Sheet_76
+  - first:
+      213: -2083750047113763261
+    second: Template Animation Sheet_77
+  - first:
+      213: 5049573248199489403
+    second: Template Animation Sheet_78
+  - first:
+      213: -5060154897993215924
+    second: Template Animation Sheet_79
+  - first:
+      213: -2137459195387439832
+    second: Template Animation Sheet_80
+  - first:
+      213: -5803063167034842574
+    second: Template Animation Sheet_81
+  - first:
+      213: -975059301375833479
+    second: Template Animation Sheet_82
+  - first:
+      213: 4089519567379818276
+    second: Template Animation Sheet_83
+  - first:
+      213: -3698060779196191258
+    second: Template Animation Sheet_84
+  - first:
+      213: 687542268107724018
+    second: Template Animation Sheet_85
+  - first:
+      213: -4675228733772897941
+    second: Template Animation Sheet_86
+  - first:
+      213: 276841032877162005
+    second: Template Animation Sheet_87
+  - first:
+      213: 5378258699113933092
+    second: Template Animation Sheet_88
+  - first:
+      213: 114219287510479190
+    second: Template Animation Sheet_89
+  - first:
+      213: 8720997883188549873
+    second: Template Animation Sheet_90
+  - first:
+      213: 8160272353289285691
+    second: Template Animation Sheet_91
+  - first:
+      213: -4465989612746271872
+    second: Template Animation Sheet_92
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Template Animation Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 1512
+        width: 14
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe0f9de9822e29ef0800000000000000
+      internalID: -102771177384447761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Template Animation Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 1428
+        width: 14
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b6cce6ef1bd468e0800000000000000
+      internalID: -1700993829174458704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Template Animation Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 1428
+        width: 14
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae132c3111a5f7ee0800000000000000
+      internalID: -1261190341248011798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Template Animation Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 1428
+        width: 14
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3555962c59f5c40f0800000000000000
+      internalID: -1131424309560388269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Template Animation Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 1428
+        width: 15
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8d2cf170e42b9da0800000000000000
+      internalID: -5937111137354240626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Template Animation Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 1428
+        width: 16
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca83a966c195eadf0800000000000000
+      internalID: -167098157650790228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Template Animation Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 1428
+        width: 15
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e93e2180f906c0d0800000000000000
+      internalID: -3403021539867739680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Template Animation Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 1428
+        width: 14
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 940e30e741dec37b0800000000000000
+      internalID: -5243055193896787895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Template Animation Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 1344
+        width: 31
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 123a0578bd5434d40800000000000000
+      internalID: 5567370373530428193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Template Animation Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 1344
+        width: 23
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ab138bbf21674460800000000000000
+      internalID: 7225850984776539043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Template Animation Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 1260
+        width: 22
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5e0175f1e6c1ef50800000000000000
+      internalID: 6909021977150819935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Template Animation Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 1260
+        width: 16
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 984ac97209458b810800000000000000
+      internalID: 1781266630741632137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Template Animation Sheet_12
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 1260
+        width: 25
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc853dcb122d298f0800000000000000
+      internalID: -535134363359946549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Template Animation Sheet_13
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 1264
+        width: 29
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 564d1239fd18e4e80800000000000000
+      internalID: -8192467874894195611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Template Animation Sheet_14
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 1260
+        width: 29
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f138bbc2acac8090800000000000000
+      internalID: -8030854220305911306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Template Animation Sheet_15
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 1260
+        width: 19
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f181220f2394a9b0800000000000000
+      internalID: -5069765450403839501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Template Animation Sheet_16
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 1260
+        width: 22
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3877a3311deeb3e60800000000000000
+      internalID: 7943204949536176003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Template Animation Sheet_17
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 1264
+        width: 26
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 826ae90f965169b30800000000000000
+      internalID: 4293642839497025064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Template Animation Sheet_18
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 1177
+        width: 22
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02cb4a17869800c20800000000000000
+      internalID: 3170685219345054752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Template Animation Sheet_19
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 1100
+        width: 22
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd9522f807ac6e620800000000000000
+      internalID: 2803150402871253467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Template Animation Sheet_20
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 1009
+        width: 21
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6746913299dc32f0800000000000000
+      internalID: -991678596007966870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Template Animation Sheet_21
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 924
+        width: 19
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1447a187923938490800000000000000
+      internalID: -7745185127829179327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Template Animation Sheet_22
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 924
+        width: 16
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9f7497d4f329f740800000000000000
+      internalID: 5186215980389662618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Template Animation Sheet_23
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 840
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0804a0790797b490800000000000000
+      internalID: -7730544168557869045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Template Animation Sheet_24
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 840
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61041234e14e9dc10800000000000000
+      internalID: 2078943521634598934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Template Animation Sheet_25
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 840
+        width: 18
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7895e459136fb0e40800000000000000
+      internalID: 5623859252520966535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Template Animation Sheet_26
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 840
+        width: 15
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6692ab9595a43750800000000000000
+      internalID: 6283829442068518507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Template Animation Sheet_27
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 845
+        width: 22
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c5c2032d435cb060800000000000000
+      internalID: 6970537914027656647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Template Animation Sheet_28
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 855
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0422f8bf05cc85e80800000000000000
+      internalID: -8189571274183335360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Template Animation Sheet_29
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 862
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2f941e782ed3f060800000000000000
+      internalID: 6986171712477110060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Template Animation Sheet_30
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 860
+        width: 25
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe42603af126bfdb0800000000000000
+      internalID: -4757100693368199953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Template Animation Sheet_31
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 857
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c2e5e24a40de6c30800000000000000
+      internalID: 4354646907082367686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Template Animation Sheet_32
+      rect:
+        serializedVersion: 2
+        x: 904
+        y: 859
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f1e2098d065a9950800000000000000
+      internalID: 6456567631922258422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Template Animation Sheet_33
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 860
+        width: 24
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 006c96fd86f9ffdc0800000000000000
+      internalID: -3602985904099441152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Template Animation Sheet_34
+      rect:
+        serializedVersion: 2
+        x: 1099
+        y: 856
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7df79cfe850a58d90800000000000000
+      internalID: -7096089334011822121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Template Animation Sheet_35
+      rect:
+        serializedVersion: 2
+        x: 1195
+        y: 851
+        width: 17
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e3420b537f9b43c0800000000000000
+      internalID: -4374227295263374368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Template Animation Sheet_36
+      rect:
+        serializedVersion: 2
+        x: 1288
+        y: 844
+        width: 19
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce3d8b0b87de0b860800000000000000
+      internalID: 7543790478462342124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Template Animation Sheet_37
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 756
+        width: 15
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05cf66b3519d77410800000000000000
+      internalID: 1474886088201272400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Template Animation Sheet_38
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 756
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95ed6238b6da19660800000000000000
+      internalID: 7390879140765163097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Template Animation Sheet_39
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 756
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f77ff941e057e1850800000000000000
+      internalID: 6349641227974997887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Template Animation Sheet_40
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 756
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b59b25b15c4be31c0800000000000000
+      internalID: -4521978217173436069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Template Animation Sheet_41
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 756
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f154f088dabda1e30800000000000000
+      internalID: 4475130718104536351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Template Animation Sheet_42
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 756
+        width: 15
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10ad2c7971db9a080800000000000000
+      internalID: -9175594856762648063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Template Animation Sheet_43
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 672
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92d92393b565cb800800000000000000
+      internalID: 629472997726657833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Template Animation Sheet_44
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 672
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46da91aa9e0c30920800000000000000
+      internalID: 2955417890298899812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Template Animation Sheet_45
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 672
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98d4cdbedf9fff990800000000000000
+      internalID: -7349881197866234487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Template Animation Sheet_46
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 672
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8f7af32dde0adaf0800000000000000
+      internalID: -370967676350464118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Template Animation Sheet_47
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 672
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38641b735e735d540800000000000000
+      internalID: 5031989616277800579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Template Animation Sheet_48
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 672
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a4a46db7f4bdcfc0800000000000000
+      internalID: -3472920761505373017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Template Animation Sheet_49
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 672
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: caf753caab592a440800000000000000
+      internalID: 4945679969791868844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Template Animation Sheet_50
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 672
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0135021a078614820800000000000000
+      internalID: 2900714467952186128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Template Animation Sheet_51
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 590
+        width: 35
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fea0ebc00840e750800000000000000
+      internalID: 6332140244340616953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Template Animation Sheet_52
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 588
+        width: 28
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38488a9df95a497f0800000000000000
+      internalID: -606677943818091389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Template Animation Sheet_53
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 588
+        width: 22
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a93224f99366050b0800000000000000
+      internalID: -5741977127226301542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Template Animation Sheet_54
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 588
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a3ae9cd116256a10800000000000000
+      internalID: 1901968275791586210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Template Animation Sheet_55
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 588
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7337f5839a951e9e0800000000000000
+      internalID: -1593894209782320329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Template Animation Sheet_56
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 588
+        width: 22
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e48312927b706b8f0800000000000000
+      internalID: -525223823291631538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Template Animation Sheet_57
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 588
+        width: 26
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecf60bca323d38a60800000000000000
+      internalID: 7675210340144017358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Template Animation Sheet_58
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 588
+        width: 28
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59cfa7ea27fa76fd0800000000000000
+      internalID: -2348715773561996139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Template Animation Sheet_59
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 588
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c5e8b67e018950e0800000000000000
+      internalID: -2280649837165091389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Template Animation Sheet_60
+      rect:
+        serializedVersion: 2
+        x: 905
+        y: 588
+        width: 16
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfeb8c3560da11650800000000000000
+      internalID: 6201928404552957693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Template Animation Sheet_61
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 505
+        width: 29
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a62de1c195ea9de80800000000000000
+      internalID: -8153293952630467990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Template Animation Sheet_62
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 505
+        width: 29
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 770df03f3d9c5e840800000000000000
+      internalID: 5252826452550733943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Template Animation Sheet_63
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 505
+        width: 29
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42023633241f5a750800000000000000
+      internalID: 6315719319089258532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Template Animation Sheet_64
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 505
+        width: 29
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7efe8be20ab0f5a0800000000000000
+      internalID: -6489482541336166789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Template Animation Sheet_65
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 420
+        width: 44
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04149ef1ca02471c0800000000000000
+      internalID: -4506941403449179840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Template Animation Sheet_66
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 420
+        width: 44
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 034e7d2c534548870800000000000000
+      internalID: 8684158571356087344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Template Animation Sheet_67
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 420
+        width: 44
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d62712fcf5c689b30800000000000000
+      internalID: 4294301403450536557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Template Animation Sheet_68
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 420
+        width: 44
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ea23e6f3e2b4caa0800000000000000
+      internalID: -6141587299657110810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Template Animation Sheet_69
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 337
+        width: 22
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5122cb94530bd3e0800000000000000
+      internalID: -2028023545274949286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Template Animation Sheet_70
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 253
+        width: 22
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce77f76f516ab8b20800000000000000
+      internalID: 3137784178653755372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Template Animation Sheet_71
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 258
+        width: 15
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2e3188b020f864f0800000000000000
+      internalID: -835153707552129490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Template Animation Sheet_72
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 280
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92aebd013b543b040800000000000000
+      internalID: 4662146674642905641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Template Animation Sheet_73
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 288
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3662c48d9b6bd6df0800000000000000
+      internalID: -185291100338248093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Template Animation Sheet_74
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 290
+        width: 19
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 242aa7f4369d8f1e0800000000000000
+      internalID: -2163740600393096638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Template Animation Sheet_75
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 292
+        width: 15
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60aeac6d0a39ccf40800000000000000
+      internalID: 5750133143252953606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Template Animation Sheet_76
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 292
+        width: 16
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21d93b7d784eb3220800000000000000
+      internalID: 2466816493006069010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Template Animation Sheet_77
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 292
+        width: 14
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 346a4115f580513e0800000000000000
+      internalID: -2083750047113763261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Template Animation Sheet_78
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 170
+        width: 14
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b77fe3e8d10b31640800000000000000
+      internalID: 5049573248199489403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Template Animation Sheet_79
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 170
+        width: 14
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4059ac1ee7b6c9b0800000000000000
+      internalID: -5060154897993215924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Template Animation Sheet_80
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 170
+        width: 14
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8251a01cf283652e0800000000000000
+      internalID: -2137459195387439832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Template Animation Sheet_81
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 170
+        width: 14
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2322cb7abc0677fa0800000000000000
+      internalID: -5803063167034842574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Template Animation Sheet_82
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 170
+        width: 14
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97a8d824bb4e772f0800000000000000
+      internalID: -975059301375833479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Template Animation Sheet_83
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 170
+        width: 14
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 427eeab1164e0c830800000000000000
+      internalID: 4089519567379818276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Template Animation Sheet_84
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 84
+        width: 14
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ede4328059ddacc0800000000000000
+      internalID: -3698060779196191258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Template Animation Sheet_85
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 86
+        width: 34
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f490a2dc04aa8900800000000000000
+      internalID: 687542268107724018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Template Animation Sheet_86
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 96
+        width: 40
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6164cfac304e1fb0800000000000000
+      internalID: -4675228733772897941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Template Animation Sheet_87
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 88
+        width: 28
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51e35efd37987d300800000000000000
+      internalID: 276841032877162005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Template Animation Sheet_88
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 84
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42927d6aac963aa40800000000000000
+      internalID: 5378258699113933092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Template Animation Sheet_89
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 84
+        width: 43
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6517f8a36d9c59100800000000000000
+      internalID: 114219287510479190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Template Animation Sheet_90
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 0
+        width: 14
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f813627e55370970800000000000000
+      internalID: 8720997883188549873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Template Animation Sheet_91
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 0
+        width: 14
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b30bf38687c1f3170800000000000000
+      internalID: 8160272353289285691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Template Animation Sheet_92
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 0
+        width: 14
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0839ca9eb1e9502c0800000000000000
+      internalID: -4465989612746271872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: eda1b0ea53be27f4886af93fcdb37d1d
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Template Animation Sheet_45: -7349881197866234487
+      Template Animation Sheet_34: -7096089334011822121
+      Template Animation Sheet_56: -525223823291631538
+      Template Animation Sheet_18: 3170685219345054752
+      Template Animation Sheet_3: -1131424309560388269
+      Template Animation Sheet_4: -5937111137354240626
+      Template Animation Sheet_44: 2955417890298899812
+      Template Animation Sheet_84: -3698060779196191258
+      Template Animation Sheet_0: -102771177384447761
+      Template Animation Sheet_65: -4506941403449179840
+      Template Animation Sheet_31: 4354646907082367686
+      Template Animation Sheet_75: 5750133143252953606
+      Template Animation Sheet_58: -2348715773561996139
+      Template Animation Sheet_73: -185291100338248093
+      Template Animation Sheet_90: 8720997883188549873
+      Template Animation Sheet_64: -6489482541336166789
+      Template Animation Sheet_54: 1901968275791586210
+      Template Animation Sheet_69: -2028023545274949286
+      Template Animation Sheet_35: -4374227295263374368
+      Template Animation Sheet_51: 6332140244340616953
+      Template Animation Sheet_79: -5060154897993215924
+      Template Animation Sheet_39: 6349641227974997887
+      Template Animation Sheet_29: 6986171712477110060
+      Template Animation Sheet_52: -606677943818091389
+      Template Animation Sheet_13: -8192467874894195611
+      Template Animation Sheet_25: 5623859252520966535
+      Template Animation Sheet_78: 5049573248199489403
+      Template Animation Sheet_26: 6283829442068518507
+      Template Animation Sheet_40: -4521978217173436069
+      Template Animation Sheet_82: -975059301375833479
+      Template Animation Sheet_55: -1593894209782320329
+      Template Animation Sheet_15: -5069765450403839501
+      Template Animation Sheet_23: -7730544168557869045
+      Template Animation Sheet_14: -8030854220305911306
+      Template Animation Sheet_61: -8153293952630467990
+      Template Animation Sheet_66: 8684158571356087344
+      Template Animation Sheet_6: -3403021539867739680
+      Template Animation Sheet_62: 5252826452550733943
+      Template Animation Sheet_38: 7390879140765163097
+      Template Animation Sheet_76: 2466816493006069010
+      Template Animation Sheet_46: -370967676350464118
+      Template Animation Sheet_7: -5243055193896787895
+      Template Animation Sheet_8: 5567370373530428193
+      Template Animation Sheet_27: 6970537914027656647
+      Template Animation Sheet_20: -991678596007966870
+      Template Animation Sheet_72: 4662146674642905641
+      Template Animation Sheet_37: 1474886088201272400
+      Template Animation Sheet_53: -5741977127226301542
+      Template Animation Sheet_19: 2803150402871253467
+      Template Animation Sheet_77: -2083750047113763261
+      Template Animation Sheet_22: 5186215980389662618
+      Template Animation Sheet_74: -2163740600393096638
+      Template Animation Sheet_86: -4675228733772897941
+      Template Animation Sheet_92: -4465989612746271872
+      Template Animation Sheet_32: 6456567631922258422
+      Template Animation Sheet_70: 3137784178653755372
+      Template Animation Sheet_91: 8160272353289285691
+      Template Animation Sheet_9: 7225850984776539043
+      Template Animation Sheet_80: -2137459195387439832
+      Template Animation Sheet_42: -9175594856762648063
+      Template Animation Sheet_68: -6141587299657110810
+      Template Animation Sheet_71: -835153707552129490
+      Template Animation Sheet_43: 629472997726657833
+      Template Animation Sheet_21: -7745185127829179327
+      Template Animation Sheet_33: -3602985904099441152
+      Template Animation Sheet_36: 7543790478462342124
+      Template Animation Sheet_63: 6315719319089258532
+      Template Animation Sheet_67: 4294301403450536557
+      Template Animation Sheet_89: 114219287510479190
+      Template Animation Sheet_87: 276841032877162005
+      Template Animation Sheet_81: -5803063167034842574
+      Template Animation Sheet_24: 2078943521634598934
+      Template Animation Sheet_85: 687542268107724018
+      Template Animation Sheet_10: 6909021977150819935
+      Template Animation Sheet_16: 7943204949536176003
+      Template Animation Sheet_60: 6201928404552957693
+      Template Animation Sheet_2: -1261190341248011798
+      Template Animation Sheet_12: -535134363359946549
+      Template Animation Sheet_41: 4475130718104536351
+      Template Animation Sheet_1: -1700993829174458704
+      Template Animation Sheet_5: -167098157650790228
+      Template Animation Sheet_30: -4757100693368199953
+      Template Animation Sheet_83: 4089519567379818276
+      Template Animation Sheet_49: 4945679969791868844
+      Template Animation Sheet_48: -3472920761505373017
+      Template Animation Sheet_59: -2280649837165091389
+      Template Animation Sheet_17: 4293642839497025064
+      Template Animation Sheet_11: 1781266630741632137
+      Template Animation Sheet_57: 7675210340144017358
+      Template Animation Sheet_50: 2900714467952186128
+      Template Animation Sheet_88: 5378258699113933092
+      Template Animation Sheet_28: -8189571274183335360
+      Template Animation Sheet_47: 5031989616277800579
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
